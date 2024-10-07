@@ -7,8 +7,10 @@
   transition: all 0.3s ease;
 }
 body{
-  height: 100vh;;
+  height: 75%;;
   width: 100%;
+  padding: 5%;
+  padding-bottom:5%;
   display: flex;
   background-image: linear-gradient( 135deg, #FFE1FF  10%, #7E60BF 100%);
 }
